@@ -1,0 +1,377 @@
+
+========== SS1 STARTED AT 2025-11-05 17:07:29 ==========
+
+========== SS1 STARTED AT 2025-11-07 08:50:48 ==========
+
+========== SS1 STARTED AT 2025-11-07 09:05:12 ==========
+[2025-11-07 09:07:14] [INFO] [SS1] [nm:0] [system] [CREATE] [mouse.txt] [SUCCESS]
+[2025-11-07 09:07:50] [INFO] [SS1] [client:0] [user1] [READ] [mouse.txt] [SUCCESS]
+[2025-11-07 09:16:46] [INFO] [SS1] [client:0] [user1] [WRITE] [mouse.txt] [SUCCESS]
+[2025-11-07 11:09:33] [INFO] [SS1] [nm:0] [system] [CREATE] [mouse.text] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-07 11:10:49 ==========
+
+========== SS1 STARTED AT 2025-11-07 11:25:15 ==========
+[2025-11-07 11:28:04] [INFO] [SS1] [nm:0] [system] [CREATE] [test2.txt] [SUCCESS]
+[2025-11-07 11:28:34] [INFO] [SS1] [client:0] [user2] [READ] [test2.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-08 18:26:13 ==========
+[2025-11-08 18:27:50] [INFO] [SS1] [client:0] [user2] [READ] [test2.txt] [SUCCESS]
+[2025-11-08 18:32:51] [INFO] [SS1] [client:0] [user2] [WRITE] [test2.txt] [SUCCESS]
+[2025-11-08 18:45:35] [INFO] [SS1] [client:0] [user2] [WRITE] [test2.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-08 18:47:03 ==========
+[2025-11-08 18:49:41] [INFO] [SS1] [client:0] [user2] [WRITE] [test2.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-08 18:58:11 ==========
+[2025-11-08 19:01:14] [INFO] [SS1] [client:0] [user2] [WRITE] [test2.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-08 19:11:23 ==========
+
+========== SS1 STARTED AT 2025-11-08 19:15:18 ==========
+[2025-11-08 19:18:54] [WARNING] [SS1] [client:0] [user2] [WRITE] [test2.txt] [ABORTED]
+[2025-11-08 19:20:25] [INFO] [SS1] [client:0] [user2] [WRITE] [test2.txt] [SUCCESS]
+[2025-11-08 19:21:07] [INFO] [SS1] [client:0] [user2] [READ] [test2.txt] [SUCCESS]
+[2025-11-08 19:22:10] [INFO] [SS1] [client:0] [user2] [STREAM] [test2.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-09 00:37:32 ==========
+[2025-11-09 00:40:23] [INFO] [SS1] [client:0] [user2] [WRITE] [test2.txt] [SUCCESS]
+[2025-11-09 00:49:24] [INFO] [SS1] [client:0] [user2] [WRITE] [test2.txt] [SUCCESS]
+[2025-11-09 18:12:44] [INFO] [SS1] [client:0] [user1] [WRITE] [test2.txt] [SUCCESS]
+[2025-11-09 18:14:00] [INFO] [SS1] [nm:0] [system] [DELETE] [test2.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-09 18:29:03 ==========
+[2025-11-09 18:30:07] [INFO] [SS1] [nm:0] [system] [CREATE] [split.txt] [SUCCESS]
+[2025-11-09 18:31:20] [INFO] [SS1] [client:0] [user1] [WRITE] [split.txt] [SUCCESS]
+[2025-11-09 18:31:29] [INFO] [SS1] [client:0] [user1] [READ] [split.txt] [SUCCESS]
+[2025-11-09 18:44:43] [INFO] [SS1] [client:0] [user1] [WRITE] [split.txt] [SUCCESS]
+[2025-11-09 18:44:53] [INFO] [SS1] [client:0] [user1] [READ] [split.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-10 15:07:23 ==========
+[2025-11-10 15:09:14] [INFO] [SS1] [nm:0] [system] [CREATE] [test2.txt] [SUCCESS]
+[2025-11-10 15:12:04] [INFO] [SS1] [client:0] [user2] [WRITE] [test2.txt] [SUCCESS]
+[2025-11-10 15:13:10] [INFO] [SS1] [client:0] [user2] [STREAM] [test2.txt] [SUCCESS]
+[2025-11-10 15:49:46] [INFO] [SS1] [client:0] [user2] [WRITE] [test2.txt] [SUCCESS]
+[2025-11-10 15:52:10] [INFO] [SS1] [client:0] [user2] [WRITE] [test2.txt] [SUCCESS]
+[2025-11-10 15:52:53] [INFO] [SS1] [client:0] [user2] [WRITE] [test2.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-11 10:11:12 ==========
+[2025-11-11 10:14:53] [INFO] [SS1] [client:0] [user1] [READ] [test2.txt] [SUCCESS]
+[2025-11-11 10:16:22] [INFO] [SS1] [client:0] [user1] [WRITE] [test2.txt] [SUCCESS]
+[2025-11-11 10:19:42] [INFO] [SS1] [client:0] [user1] [WRITE] [test2.txt] [SUCCESS]
+[2025-11-11 10:22:54] [INFO] [SS1] [client:0] [user1] [WRITE] [test2.txt] [SUCCESS]
+[2025-11-11 10:23:41] [INFO] [SS1] [nm:0] [system] [CREATE] [tabc.txt] [SUCCESS]
+[2025-11-11 10:23:55] [INFO] [SS1] [nm:0] [system] [CREATE] [abc.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-11 10:28:25 ==========
+[2025-11-11 10:29:15] [INFO] [SS1] [nm:0] [system] [CREATE] [yo.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-11 10:41:54 ==========
+
+========== SS1 STARTED AT 2025-11-11 10:43:03 ==========
+[2025-11-11 10:43:37] [INFO] [SS1] [nm:0] [system] [CREATE] [hello.txt] [SUCCESS]
+[2025-11-11 10:55:53] [INFO] [SS1] [client:0] [user1] [WRITE] [hello.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-11 10:57:06 ==========
+[2025-11-11 10:57:39] [INFO] [SS1] [client:0] [user1] [READ] [hello.txt] [SUCCESS]
+[2025-11-11 11:00:03] [INFO] [SS1] [client:0] [user1] [WRITE] [hello.txt] [SUCCESS]
+[2025-11-11 11:01:46] [INFO] [SS1] [nm:0] [system] [CREATE] [bla.txt] [SUCCESS]
+[2025-11-11 11:02:05] [INFO] [SS1] [client:0] [user1] [READ] [hello.txt] [SUCCESS]
+[2025-11-11 11:03:13] [INFO] [SS1] [client:0] [user1] [STREAM] [hello.txt] [SUCCESS]
+[2025-11-11 11:08:36] [INFO] [SS1] [client:0] [user1] [UNDO] [hello.txt] [SUCCESS]
+[2025-11-11 11:20:08] [INFO] [SS1] [client:0] [user1] [WRITE] [hello.txt] [SUCCESS]
+[2025-11-11 11:21:18] [INFO] [SS1] [client:0] [user2] [WRITE] [hello.txt] [SUCCESS]
+[2025-11-11 11:22:59] [INFO] [SS1] [client:0] [user2] [WRITE] [hello.txt] [SUCCESS]
+[2025-11-11 11:24:01] [INFO] [SS1] [client:0] [nm] [READ] [hello.txt] [SUCCESS]
+[2025-11-11 11:24:44] [INFO] [SS1] [client:0] [nm] [READ] [hello.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-12 14:04:48 ==========
+[2025-11-12 14:06:58] [INFO] [SS1] [nm:0] [system] [DELETE] [hello.txt] [SUCCESS]
+[2025-11-12 14:07:13] [INFO] [SS1] [nm:0] [system] [CREATE] [hello.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-12 14:09:54 ==========
+[2025-11-12 14:12:05] [INFO] [SS1] [nm:0] [system] [CREATE] [yeye.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-13 15:09:03 ==========
+
+========== SS1 STARTED AT 2025-11-13 15:39:37 ==========
+
+========== SS1 STARTED AT 2025-11-13 15:50:35 ==========
+
+========== SS1 STARTED AT 2025-11-13 15:51:16 ==========
+
+========== SS1 STARTED AT 2025-11-13 15:59:58 ==========
+
+========== SS1 STARTED AT 2025-11-13 16:12:18 ==========
+
+========== SS1 STARTED AT 2025-11-13 16:24:40 ==========
+
+========== SS1 STARTED AT 2025-11-13 16:27:55 ==========
+[2025-11-13 22:21:54] [INFO] [SS1] [nm:0] [system] [CREATE] [A] [SUCCESS]
+[2025-11-13 22:22:14] [INFO] [SS1] [nm:0] [system] [CREATE] [aujla.txt] [SUCCESS]
+[2025-11-13 22:23:26] [INFO] [SS1] [client:0] [user1] [WRITE] [aujla.txt] [SUCCESS]
+[2025-11-13 22:47:14] [INFO] [SS1] [client:0] [user1] [UNDO] [aujla.txt] [SUCCESS]
+[2025-11-13 22:51:42] [INFO] [SS1] [client:0] [user1] [WRITE] [aujla.txt] [SUCCESS]
+[2025-11-13 22:53:57] [INFO] [SS1] [client:0] [user1] [WRITE] [aujla.txt] [SUCCESS]
+[2025-11-13 22:54:52] [INFO] [SS1] [client:0] [user1] [WRITE] [aujla.txt] [SUCCESS]
+[2025-11-13 22:55:57] [INFO] [SS1] [client:0] [user1] [WRITE] [aujla.txt] [SUCCESS]
+[2025-11-13 22:57:27] [INFO] [SS1] [client:0] [user1] [WRITE] [aujla.txt] [SUCCESS]
+[2025-11-13 22:58:22] [INFO] [SS1] [client:0] [user1] [WRITE] [aujla.txt] [SUCCESS]
+[2025-11-13 22:59:07] [INFO] [SS1] [client:0] [user1] [WRITE] [aujla.txt] [SUCCESS]
+[2025-11-13 23:00:17] [INFO] [SS1] [client:0] [user1] [WRITE] [aujla.txt] [SUCCESS]
+[2025-11-13 23:00:52] [INFO] [SS1] [client:0] [user1] [WRITE] [aujla.txt] [SUCCESS]
+[2025-11-13 23:02:59] [INFO] [SS1] [client:0] [user2] [READ] [aujla.txt] [SUCCESS]
+[2025-11-13 23:03:29] [INFO] [SS1] [client:0] [user2] [STREAM] [aujla.txt] [SUCCESS]
+[2025-11-13 23:05:12] [INFO] [SS1] [client:0] [user2] [WRITE] [aujla.txt] [SUCCESS]
+[2025-11-13 23:44:32] [INFO] [SS1] [client:0] [user1] [WRITE] [aujla.txt] [SUCCESS]
+[2025-11-13 23:44:48] [INFO] [SS1] [nm:0] [system] [DELETE] [aujla.txt] [SUCCESS]
+[2025-11-13 23:44:55] [INFO] [SS1] [nm:0] [system] [CREATE] [aujla.txt] [SUCCESS]
+[2025-11-13 23:45:42] [INFO] [SS1] [client:0] [user1] [WRITE] [aujla.txt] [SUCCESS]
+[2025-11-13 23:46:38] [INFO] [SS1] [client:0] [nm] [READ] [aujla.txt] [SUCCESS]
+[2025-11-13 23:48:00] [INFO] [SS1] [client:0] [user1] [READ] [aujla.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-14 19:04:31 ==========
+[2025-11-14 19:06:44] [INFO] [SS1] [nm:0] [system] [CREATE] [navey.txt] [SUCCESS]
+[2025-11-14 19:08:35] [INFO] [SS1] [client:0] [nihar] [WRITE] [navey.txt] [SUCCESS]
+[2025-11-14 19:08:50] [INFO] [SS1] [client:0] [nihar] [READ] [navey.txt] [SUCCESS]
+[2025-11-14 19:12:59] [INFO] [SS1] [nm:0] [system] [DELETE] [navey.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-15 18:10:28 ==========
+[2025-11-15 18:12:30] [INFO] [SS1] [nm:0] [system] [CREATE] [p.t] [SUCCESS]
+[2025-11-15 18:12:54] [INFO] [SS1] [nm:0] [system] [CREATE] [conc.txt] [SUCCESS]
+[2025-11-15 18:14:15] [INFO] [SS1] [client:0] [msnik] [WRITE] [conc.txt] [SUCCESS]
+[2025-11-15 18:14:43] [WARNING] [SS1] [client:0] [msnik] [WRITE] [conc.txt] [ABORTED]
+[2025-11-15 18:15:04] [INFO] [SS1] [nm:0] [system] [CREATE] [concu.txt] [SUCCESS]
+[2025-11-15 18:16:45] [INFO] [SS1] [client:0] [manik] [WRITE] [concu.txt] [SUCCESS]
+[2025-11-15 18:17:35] [INFO] [SS1] [client:0] [navey] [WRITE] [concu.txt] [SUCCESS]
+[2025-11-15 18:18:05] [INFO] [SS1] [client:0] [manik] [WRITE] [concu.txt] [SUCCESS]
+[2025-11-15 18:20:30] [INFO] [SS1] [client:0] [manik] [WRITE] [concu.txt] [SUCCESS]
+[2025-11-15 18:22:05] [INFO] [SS1] [client:0] [manik] [WRITE] [concu.txt] [SUCCESS]
+[2025-11-15 18:22:14] [INFO] [SS1] [client:0] [manik] [UNDO] [concu.txt] [SUCCESS]
+[2025-11-15 18:22:36] [INFO] [SS1] [nm:0] [system] [DELETE] [concu.txt] [SUCCESS]
+[2025-11-15 18:22:47] [INFO] [SS1] [nm:0] [system] [CREATE] [a.txt] [SUCCESS]
+[2025-11-15 18:23:40] [INFO] [SS1] [client:0] [manik] [WRITE] [a.txt] [SUCCESS]
+[2025-11-15 18:24:35] [INFO] [SS1] [client:0] [manik] [WRITE] [a.txt] [SUCCESS]
+[2025-11-15 18:24:55] [INFO] [SS1] [client:0] [navey] [WRITE] [a.txt] [SUCCESS]
+[2025-11-15 18:25:26] [INFO] [SS1] [nm:0] [system] [CREATE] [p.txt] [SUCCESS]
+[2025-11-15 18:26:00] [INFO] [SS1] [client:0] [manik] [WRITE] [p.txt] [SUCCESS]
+[2025-11-15 18:26:45] [INFO] [SS1] [client:0] [manik] [WRITE] [p.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-15 18:46:28 ==========
+[2025-11-15 18:48:05] [INFO] [SS1] [nm:0] [system] [CREATE] [b.txt] [SUCCESS]
+[2025-11-15 18:53:31] [INFO] [SS1] [client:0] [user2] [READ] [b.txt] [SUCCESS]
+[2025-11-15 18:54:52] [INFO] [SS1] [client:0] [user2] [WRITE] [b.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-15 19:02:56 ==========
+[2025-11-15 19:04:30] [INFO] [SS1] [nm:0] [system] [CREATE] [c.txt] [SUCCESS]
+[2025-11-15 19:05:03] [INFO] [SS1] [client:0] [user1] [WRITE] [c.txt] [SUCCESS]
+[2025-11-15 19:06:03] [INFO] [SS1] [client:0] [user1] [WRITE] [c.txt] [SUCCESS]
+[2025-11-15 19:06:43] [INFO] [SS1] [client:0] [user1] [WRITE] [c.txt] [SUCCESS]
+[2025-11-15 19:07:13] [INFO] [SS1] [client:0] [user2] [WRITE] [c.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-18 12:44:07 ==========
+[2025-11-18 12:46:03] [INFO] [SS1] [nm:0] [system] [CREATE] [d.txt] [SUCCESS]
+[2025-11-18 12:47:17] [INFO] [SS1] [client:0] [puri] [WRITE] [d.txt] [SUCCESS]
+[2025-11-18 12:51:02] [INFO] [SS1] [client:0] [puri] [WRITE] [d.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-18 22:15:07 ==========
+[2025-11-18 22:25:38] [INFO] [SS1] [client:0] [user1] [READ] [aujla.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-18 22:29:46 ==========
+[2025-11-18 22:30:18] [INFO] [SS1] [client:0] [] [READ] [A] [SUCCESS]
+[2025-11-18 22:30:18] [INFO] [SS1] [client:0] [] [READ] [a.txt] [SUCCESS]
+[2025-11-18 22:30:18] [INFO] [SS1] [client:0] [] [READ] [aujla.txt] [SUCCESS]
+[2025-11-18 22:30:18] [INFO] [SS1] [client:0] [] [READ] [b.txt] [SUCCESS]
+[2025-11-18 22:30:18] [INFO] [SS1] [client:0] [] [READ] [bla.txt] [SUCCESS]
+[2025-11-18 22:30:18] [INFO] [SS1] [client:0] [] [READ] [c.txt] [SUCCESS]
+[2025-11-18 22:30:18] [INFO] [SS1] [client:0] [] [READ] [conc.txt] [SUCCESS]
+[2025-11-18 22:30:18] [INFO] [SS1] [client:0] [] [READ] [d.txt] [SUCCESS]
+[2025-11-18 22:30:18] [INFO] [SS1] [client:0] [] [READ] [hello.txt] [SUCCESS]
+[2025-11-18 22:30:18] [INFO] [SS1] [client:0] [] [READ] [input.txt] [SUCCESS]
+[2025-11-18 22:30:18] [INFO] [SS1] [client:0] [] [READ] [p.t] [SUCCESS]
+[2025-11-18 22:30:18] [INFO] [SS1] [client:0] [] [READ] [p.txt] [SUCCESS]
+[2025-11-18 22:30:18] [INFO] [SS1] [client:0] [] [READ] [yeye.txt] [SUCCESS]
+[2025-11-18 22:30:18] [INFO] [SS1] [client:0] [] [READ] [yo.txt] [SUCCESS]
+[2025-11-18 22:32:11] [INFO] [SS1] [client:0] [user1] [READ] [aujla.txt] [SUCCESS]
+[2025-11-18 22:32:49] [INFO] [SS1] [nm:0] [system] [CREATE] [e.txt] [SUCCESS]
+[2025-11-18 22:33:23] [INFO] [SS1] [client:0] [user1] [READ] [b.txt] [SUCCESS]
+[2025-11-18 22:35:24] [INFO] [SS1] [nm:0] [system] [DELETE] [e.txt] [SUCCESS]
+[2025-11-18 22:35:41] [INFO] [SS1] [client:0] [user1] [STREAM] [c.txt] [SUCCESS]
+[2025-11-18 22:36:30] [INFO] [SS1] [client:0] [nm] [READ] [aujla.txt] [SUCCESS]
+[2025-11-18 23:03:05] [INFO] [SS1] [client:0] [] [READ] [A] [SUCCESS]
+[2025-11-18 23:03:05] [INFO] [SS1] [client:0] [] [READ] [b.txt] [SUCCESS]
+[2025-11-18 23:03:05] [INFO] [SS1] [client:0] [] [READ] [bla.txt] [SUCCESS]
+[2025-11-18 23:03:05] [INFO] [SS1] [client:0] [] [READ] [yeye.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-18 23:08:21 ==========
+
+========== SS1 STARTED AT 2025-11-18 23:09:01 ==========
+
+========== SS1 STARTED AT 2025-11-18 23:09:15 ==========
+
+========== SS1 STARTED AT 2025-11-18 23:20:56 ==========
+[2025-11-18 23:21:07] [INFO] [SS1] [client:0] [user1] [READ] [aujla.txt] [SUCCESS]
+[2025-11-18 23:31:42] [INFO] [SS1] [client:0] [user1] [READ] [aujla.txt] [SUCCESS]
+[2025-11-18 23:33:05] [INFO] [SS1] [client:0] [] [READ] [A] [SUCCESS]
+[2025-11-18 23:33:05] [INFO] [SS1] [client:0] [] [READ] [b.txt] [SUCCESS]
+[2025-11-18 23:33:05] [INFO] [SS1] [client:0] [] [READ] [bla.txt] [SUCCESS]
+[2025-11-18 23:33:05] [INFO] [SS1] [client:0] [] [READ] [yeye.txt] [SUCCESS]
+[2025-11-18 23:47:47] [INFO] [SS1] [nm:0] [system] [CREATE] [roh.txt] [SUCCESS]
+[2025-11-18 23:47:59] [INFO] [SS1] [client:0] [ROHAN] [READ] [roh.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 01:25:54 ==========
+[2025-11-19 01:26:22] [INFO] [SS1] [nm:0] [system] [CREATE] [g.txt] [SUCCESS]
+[2025-11-19 01:30:31] [INFO] [SS1] [nm:0] [system] [DELETE] [g.txt] [SUCCESS]
+[2025-11-19 01:31:30] [INFO] [SS1] [nm:0] [system] [CREATE] [papa] [SUCCESS]
+[2025-11-19 01:31:53] [INFO] [SS1] [nm:0] [system] [DELETE] [papa] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 01:35:29 ==========
+
+========== SS1 STARTED AT 2025-11-19 01:38:01 ==========
+
+========== SS1 STARTED AT 2025-11-19 01:41:11 ==========
+[2025-11-19 01:43:42] [INFO] [SS1] [nm:0] [system] [CREATE] [h.txt] [SUCCESS]
+[2025-11-19 01:43:48] [INFO] [SS1] [client:0] [user1] [READ] [h.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 01:44:15 ==========
+[2025-11-19 01:46:20] [INFO] [SS1] [client:0] [] [READ] [A] [SUCCESS]
+[2025-11-19 01:46:20] [INFO] [SS1] [client:0] [] [READ] [b.txt] [SUCCESS]
+[2025-11-19 01:46:20] [INFO] [SS1] [client:0] [] [READ] [bla.txt] [SUCCESS]
+[2025-11-19 01:46:20] [INFO] [SS1] [client:0] [] [READ] [yeye.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 01:47:30 ==========
+[2025-11-19 01:47:53] [INFO] [SS1] [client:0] [user1] [READ] [h.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 01:50:35 ==========
+
+========== SS1 STARTED AT 2025-11-19 01:51:43 ==========
+[2025-11-19 01:52:15] [INFO] [SS1] [client:0] [user1] [STREAM] [aujla.txt] [SUCCESS]
+[2025-11-19 01:52:30] [INFO] [SS1] [client:0] [user1] [STREAM] [c.txt] [SUCCESS]
+[2025-11-19 01:53:44] [INFO] [SS1] [nm:0] [system] [DELETE] [h.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 02:00:44 ==========
+[2025-11-19 02:01:08] [INFO] [SS1] [client:0] [user1] [STREAM] [c.txt] [SUCCESS]
+[2025-11-19 02:01:22] [INFO] [SS1] [client:0] [user1] [STREAM] [c.txt] [SUCCESS]
+[2025-11-19 02:01:30] [INFO] [SS1] [client:0] [user1] [READ] [c.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 02:09:46 ==========
+[2025-11-19 02:10:12] [INFO] [SS1] [client:0] [user1] [STREAM] [c.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 02:20:37 ==========
+[2025-11-19 02:21:05] [INFO] [SS1] [client:0] [user1] [STREAM] [c.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 02:50:52 ==========
+[2025-11-19 02:51:30] [INFO] [SS1] [client:0] [user1] [STREAM] [c.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 03:02:51 ==========
+[2025-11-19 03:04:17] [INFO] [SS1] [nm:0] [system] [CREATE] [j.txt] [SUCCESS]
+[2025-11-19 03:06:19] [INFO] [SS1] [client:0] [user1] [WRITE] [j.txt] [SUCCESS]
+[2025-11-19 03:06:31] [INFO] [SS1] [client:0] [user1] [STREAM] [j.txt] [SUCCESS]
+[2025-11-19 03:07:24] [INFO] [SS1] [client:0] [user1] [WRITE] [j.txt] [SUCCESS]
+[2025-11-19 03:07:53] [INFO] [SS1] [client:0] [user1] [UNDO] [j.txt] [SUCCESS]
+[2025-11-19 03:12:09] [INFO] [SS1] [client:0] [user1] [WRITE] [j.txt] [SUCCESS]
+[2025-11-19 03:14:12] [INFO] [SS1] [client:0] [user1] [READ] [j.txt] [SUCCESS]
+[2025-11-19 03:14:34] [INFO] [SS1] [client:0] [user1] [WRITE] [j.txt] [SUCCESS]
+[2025-11-19 03:16:24] [INFO] [SS1] [client:0] [user1] [WRITE] [j.txt] [SUCCESS]
+[2025-11-19 03:17:29] [INFO] [SS1] [client:0] [user2] [WRITE] [j.txt] [SUCCESS]
+[2025-11-19 03:18:08] [INFO] [SS1] [client:0] [user1] [READ] [j.txt] [SUCCESS]
+[2025-11-19 03:18:16] [INFO] [SS1] [client:0] [user2] [READ] [j.txt] [SUCCESS]
+[2025-11-19 03:24:24] [INFO] [SS1] [client:0] [user1] [WRITE] [j.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 03:25:58 ==========
+[2025-11-19 03:27:00] [INFO] [SS1] [nm:0] [system] [CREATE] [a2.txt] [SUCCESS]
+[2025-11-19 03:29:56] [INFO] [SS1] [client:0] [user1] [WRITE] [a2.txt] [SUCCESS]
+[2025-11-19 03:31:36] [INFO] [SS1] [client:0] [user1] [WRITE] [a2.txt] [SUCCESS]
+[2025-11-19 03:32:36] [INFO] [SS1] [client:0] [user1] [WRITE] [a2.txt] [SUCCESS]
+[2025-11-19 03:34:01] [INFO] [SS1] [client:0] [user1] [WRITE] [a2.txt] [SUCCESS]
+[2025-11-19 03:34:14] [INFO] [SS1] [client:0] [user1] [READ] [a2.txt] [SUCCESS]
+[2025-11-19 03:34:46] [INFO] [SS1] [client:0] [user2] [WRITE] [a2.txt] [SUCCESS]
+[2025-11-19 03:37:34] [INFO] [SS1] [client:0] [user2] [READ] [a2.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 03:54:32 ==========
+
+========== SS1 STARTED AT 2025-11-19 03:54:42 ==========
+[2025-11-19 03:56:49] [INFO] [SS1] [client:0] [user1] [WRITE] [a2.txt] [SUCCESS]
+[2025-11-19 03:58:09] [INFO] [SS1] [client:0] [user2] [WRITE] [a2.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 04:00:56 ==========
+[2025-11-19 04:02:58] [INFO] [SS1] [client:0] [user1] [WRITE] [a2.txt] [SUCCESS]
+[2025-11-19 04:04:28] [INFO] [SS1] [client:0] [user1] [WRITE] [a2.txt] [SUCCESS]
+[2025-11-19 04:06:01] [INFO] [SS1] [client:0] [user1] [READ] [a2.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 04:11:09 ==========
+[2025-11-19 04:12:27] [INFO] [SS1] [client:0] [user1] [WRITE] [a2.txt] [SUCCESS]
+[2025-11-19 04:13:18] [INFO] [SS1] [client:0] [user1] [READ] [a2.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 04:18:17 ==========
+[2025-11-19 04:22:44] [INFO] [SS1] [client:0] [user1] [WRITE] [a2.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 04:26:00 ==========
+[2025-11-19 04:27:33] [INFO] [SS1] [client:0] [user1] [WRITE] [a2.txt] [SUCCESS]
+[2025-11-19 04:27:56] [INFO] [SS1] [client:0] [user1] [READ] [a2.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 04:32:35 ==========
+[2025-11-19 04:33:44] [INFO] [SS1] [client:0] [user1] [WRITE] [a2.txt] [SUCCESS]
+[2025-11-19 04:34:01] [INFO] [SS1] [client:0] [user1] [READ] [a2.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 04:38:29 ==========
+[2025-11-19 04:39:50] [INFO] [SS1] [client:0] [user1] [WRITE] [a2.txt] [SUCCESS]
+[2025-11-19 04:39:50] [INFO] [SS1] [client:0] [] [READ] [a2.txt] [SUCCESS]
+[2025-11-19 04:40:27] [INFO] [SS1] [nm:0] [system] [CREATE] [l.txt] [SUCCESS]
+[2025-11-19 04:47:19] [INFO] [SS1] [client:0] [user1] [WRITE] [l.txt] [SUCCESS]
+[2025-11-19 04:50:34] [INFO] [SS1] [client:0] [user1] [WRITE] [l.txt] [SUCCESS]
+[2025-11-19 04:51:24] [INFO] [SS1] [client:0] [user2] [WRITE] [l.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 04:54:56 ==========
+[2025-11-19 04:56:04] [INFO] [SS1] [client:0] [user1] [WRITE] [l.txt] [SUCCESS]
+[2025-11-19 04:56:40] [INFO] [SS1] [client:0] [user1] [WRITE] [l.txt] [SUCCESS]
+[2025-11-19 04:57:12] [INFO] [SS1] [client:0] [user2] [WRITE] [l.txt] [SUCCESS]
+[2025-11-19 04:57:40] [INFO] [SS1] [client:0] [user2] [WRITE] [l.txt] [SUCCESS]
+[2025-11-19 04:59:33] [INFO] [SS1] [nm:0] [system] [CREATE] [o.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 05:00:47 ==========
+[2025-11-19 05:01:50] [INFO] [SS1] [client:0] [user1] [WRITE] [l.txt] [SUCCESS]
+[2025-11-19 05:02:23] [INFO] [SS1] [client:0] [user1] [WRITE] [o.txt] [SUCCESS]
+[2025-11-19 05:02:40] [INFO] [SS1] [client:0] [user1] [WRITE] [o.txt] [SUCCESS]
+[2025-11-19 05:03:58] [INFO] [SS1] [client:0] [user1] [UNDO] [o.txt] [SUCCESS]
+[2025-11-19 05:04:30] [INFO] [SS1] [client:0] [user1] [WRITE] [o.txt] [SUCCESS]
+[2025-11-19 05:04:53] [INFO] [SS1] [client:0] [user1] [WRITE] [o.txt] [SUCCESS]
+[2025-11-19 05:04:57] [INFO] [SS1] [client:0] [user1] [UNDO] [o.txt] [SUCCESS]
+[2025-11-19 05:06:19] [INFO] [SS1] [client:0] [user1] [WRITE] [o.txt] [SUCCESS]
+[2025-11-19 05:10:54] [INFO] [SS1] [client:0] [user2] [UNDO] [o.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 05:15:57 ==========
+[2025-11-19 05:17:22] [INFO] [SS1] [client:0] [user2] [WRITE] [o.txt] [SUCCESS]
+[2025-11-19 05:17:29] [INFO] [SS1] [client:0] [user1] [UNDO] [o.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 05:24:00 ==========
+[2025-11-19 05:24:57] [INFO] [SS1] [nm:0] [system] [CREATE] [hair,] [SUCCESS]
+[2025-11-19 05:25:20] [INFO] [SS1] [nm:0] [system] [CREATE] [hair.txt] [SUCCESS]
+[2025-11-19 05:25:38] [INFO] [SS1] [client:0] [user1] [WRITE] [hair.txt] [SUCCESS]
+[2025-11-19 05:26:09] [INFO] [SS1] [client:0] [user1] [WRITE] [hair.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 05:29:52 ==========
+[2025-11-19 05:30:09] [INFO] [SS1] [nm:0] [system] [CREATE] [tal.txt] [SUCCESS]
+[2025-11-19 05:31:44] [INFO] [SS1] [client:0] [user1] [WRITE] [tal.txt] [SUCCESS]
+[2025-11-19 05:31:53] [INFO] [SS1] [client:0] [nm] [READ] [tal.txt] [SUCCESS]
+[2025-11-19 05:32:17] [INFO] [SS1] [client:0] [user1] [UNDO] [tal.txt] [SUCCESS]
+[2025-11-19 05:32:47] [INFO] [SS1] [client:0] [user1] [WRITE] [tal.txt] [SUCCESS]
+[2025-11-19 05:32:55] [INFO] [SS1] [client:0] [nm] [READ] [tal.txt] [SUCCESS]
+[2025-11-19 05:34:14] [INFO] [SS1] [client:0] [user1] [UNDO] [tal.txt] [SUCCESS]
+[2025-11-19 05:36:52] [INFO] [SS1] [client:0] [user1] [WRITE] [tal.txt] [SUCCESS]
+[2025-11-19 05:37:22] [INFO] [SS1] [client:0] [nm] [READ] [tal.txt] [SUCCESS]
+[2025-11-19 05:38:15] [INFO] [SS1] [client:0] [user1] [UNDO] [tal.txt] [SUCCESS]
+[2025-11-19 05:38:56] [INFO] [SS1] [client:0] [user1] [WRITE] [tal.txt] [SUCCESS]
+[2025-11-19 05:39:03] [INFO] [SS1] [client:0] [nm] [READ] [tal.txt] [SUCCESS]
+[2025-11-19 05:39:29] [INFO] [SS1] [client:0] [user1] [UNDO] [tal.txt] [SUCCESS]
+[2025-11-19 05:40:50] [INFO] [SS1] [client:0] [user1] [WRITE] [tal.txt] [SUCCESS]
+[2025-11-19 05:41:38] [INFO] [SS1] [client:0] [user1] [READ] [tal.txt] [SUCCESS]
+[2025-11-19 05:41:48] [INFO] [SS1] [client:0] [user1] [WRITE] [tal.txt] [SUCCESS]
+[2025-11-19 05:41:54] [INFO] [SS1] [client:0] [nm] [READ] [tal.txt] [SUCCESS]
+[2025-11-19 05:42:45] [INFO] [SS1] [client:0] [nm] [READ] [tal.txt] [SUCCESS]
+
+========== SS1 STARTED AT 2025-11-19 05:50:30 ==========
+[2025-11-19 05:50:50] [INFO] [SS1] [client:0] [nm] [EXEC] [tal.txt] [SUCCESS]
+[2025-11-19 05:55:55] [INFO] [SS1] [client:0] [user1] [READ] [tal.txt] [SUCCESS]
+[2025-11-19 05:58:31] [INFO] [SS1] [client:0] [user1] [WRITE] [tal.txt] [SUCCESS]
+[2025-11-19 05:59:26] [INFO] [SS1] [client:0] [user1] [WRITE] [tal.txt] [SUCCESS]
